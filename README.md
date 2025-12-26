@@ -1,7 +1,7 @@
 # Titanic Historical Analysis
 
 ##  Project Overview
-This project explores the Titanic passenger dataset to uncover survival patterns and demonstrate predictive modeling on historical data. Using Python, the analysis combines **data cleaning, feature engineering, and machine learning** to transform raw records into actionable insights.
+This project explores the Titanic passenger dataset to uncover survival patterns and demonstrate predictive modeling on historical data. Using Python, the analysis combines data cleaning, feature engineering, and machine learning to transform raw records into actionable insights.
 
 ## Objectives
 - Investigate demographic and socio-economic factors influencing survival.
